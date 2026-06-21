@@ -1,9 +1,9 @@
 <br><br>
 <h2 align="center" style="font-family: 'Poppins', sans-serif;">Hello world <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Mani Kumar Reddy U 😄</h2>
-<h4 align="center" style="font-family: 'Poppins', sans-serif;">Senior Support Operations Analyst @ UiPath | AI & Automation Enthusiast | Building Intelligent Solutions</h4>
+<h4 align="center" style="font-family: 'Poppins', sans-serif;">Product Support Engineer @ UiPath | AI & Automation Enthusiast | Building Intelligent Solutions</h4>
 <br><br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=UiPath+Automation+Expert;AI+%26+Machine+Learning;Coding+Agents+Builder;Support+Operations+Innovator;TypeScript+%7C+Python+%7C+React;&center=true&width=500&height=60"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=UiPath+Automation+Expert;AI+%26+Machine+Learning;Coded+Agents+Builder;Product+Support+Engineer;TypeScript+%7C+Python+%7C+React;&center=true&width=500&height=60"></a>
 </p>
 
 <img align="right" alt="coding" height="312" width="360" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"> 
@@ -44,7 +44,7 @@
   <br/>
 </h2>
 <p align="center" style="font-size: 1.1em; max-width: 800px; margin: auto;">
-  I'm <strong>Mani Kumar Reddy</strong>, a <strong>Senior Support Operations Analyst</strong> at <strong>UiPath</strong>, passionate about bridging the gap between support operations and intelligent automation. I build <strong>coded agents</strong>, <strong>Slack bots</strong>, <strong>Orchestrator dashboards</strong>, and <strong>AI-powered tools</strong> that make support teams faster and smarter. From crafting weekend monitoring agents to designing training demos — I believe every repetitive task deserves an automation. Always exploring the intersection of <strong>AI, Automation, and Developer Experience</strong> 🚀.
+  I'm <strong>Mani Kumar Reddy</strong>, a <strong>Product Support Engineer</strong> at <strong>UiPath</strong>, passionate about bridging the gap between support operations and intelligent automation. I build <strong>coded agents</strong>, <strong>Slack bots</strong>, <strong>Orchestrator dashboards</strong>, and <strong>AI-powered tools</strong> that make support teams faster and smarter. From crafting weekend monitoring agents to designing training demos — I believe every repetitive task deserves an automation. Always exploring the intersection of <strong>AI, Automation, and Developer Experience</strong> 🚀.
 </p>
 
 <hr/>
@@ -72,7 +72,7 @@
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/📚-Guides-2EA44F?style=flat-square" /><br/>
       <strong>Developer Guides</strong><br/>
-      <sub>Coding agents reference for support engineers</sub>
+      <sub>Coded agents reference for support engineers</sub>
     </td>
   </tr>
 </table>
