@@ -3,7 +3,7 @@
 <h4 align="center" style="font-family: 'Poppins', sans-serif;">Product Support Engineer @ UiPath | AI & Automation Enthusiast | Building Intelligent Solutions</h4>
 <br><br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=UiPath+Automation+Expert;AI+%26+Machine+Learning;Coded+Agents+Builder;Product+Support+Engineer;TypeScript+%7C+Python+%7C+React;&center=true&width=500&height=60"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Product+Support+Engineer ;AI+%26+Machine+Learning;Coded+Agents+Builder;Product+Support+Engineer;TypeScript+%7C+Python+%7C+React;&center=true&width=500&height=60"></a>
 </p>
 
 <img align="right" alt="coding" height="312" width="360" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"> 
