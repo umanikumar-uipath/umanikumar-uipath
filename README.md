@@ -14,8 +14,8 @@
 - 👯 I'm looking to collaborate on **UiPath Integrations & Automation Projects**
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/umanikumar-uipath?tab=repositories)
 - 💬 Ask me about **UiPath, Automation, Support Ops, AI/ML**
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/manikumarreddyu/)
-- 📧 Mail me **mani.reddy@uipath.com**
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mani-kumar-reddy-98775a262/)
+- 📧 Mail me **manikumarreddyu@gmail.com**
 - ⚡ Fun fact: **I automate things so I can have more time to automate more things!**
 
 <br>
@@ -133,8 +133,8 @@
 <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b></em> <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manikumarreddyu/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
-  <a href="mailto:mani.reddy@uipath.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
+  <a href="https://www.linkedin.com/in/mani-kumar-reddy-98775a262/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
+  <a href="mailto:manikumarreddyu@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
   <a href="https://www.github.com/umanikumar-uipath" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>   
 </p>
 
