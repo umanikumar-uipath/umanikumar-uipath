@@ -116,7 +116,7 @@
 <br>
 
 <p align="center"><b>Profile Views</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bumanikumar-uipath%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/umanikumar-uipath/count.svg" alt="visitor badge"/></p>
 <br>
 
 <p align="center">
