@@ -116,11 +116,11 @@
 <br>
 
 <p align="center"><b>Profile Views</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/umanikumar-uipath/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=umanikumar-uipath&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/></p>
 <br>
 
 <p align="center">
-  <img src="https://github.com/J-B-Mugundh/J-B-Mugundh/blob/output/github-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/umanikumar-uipath/umanikumar-uipath/output/github-snake.svg" alt="snake">
 </p>
 
 <p align="center"><b>Have some fun!</b></p>
@@ -134,7 +134,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manikumarreddyu/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
-  <a href="mailto:mani.reddy@uipath.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
+  <a href="mailto:mani.reddy@uipath.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
   <a href="https://www.github.com/umanikumar-uipath" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>   
 </p>
 
